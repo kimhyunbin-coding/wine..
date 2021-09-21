@@ -1,0 +1,135 @@
+.yellow-bg {
+	background: yellow;
+}
+
+
+.alert-box {
+	background: #a8a8fc;
+	color: blue;
+	padding: 20px;
+	border-radius: 5px;
+	display: none;
+}
+
+.main-background {
+	width: 100%;
+	height: 400px;
+	background: url(./img/%EC%99%80%EC%9D%B8.jfif);
+	background-size: contain;
+	color: black;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.black-background {
+	background: rgba(0, 0, 0, 0.5);
+	position: fixed;
+	z-index: 5;
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+
+.white-background {
+	background: white;
+	width: 80%;
+	margin: 100px auto;
+	padding: 20px;
+	border-radius: 10px;
+
+}
+
+
+
+.display-4 {
+	text-align: center;
+	padding-top: 100px
+}
+
+.display-2 {
+	text-align: center;
+	padding-top: 65px;
+	padding-bottom: 55px;
+}
+
+.btn {
+
+}
+
+.button {
+	text-align: center;
+
+}
+
+.nav-menu {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	align-items: center;
+	background-color: #f8f8f8;
+}
+
+.nav-sub {
+	display: none;
+}
+
+
+#pasta-box {
+	display: none;
+}
+
+#파스타박스 {
+}
+
+#치즈박스 {
+	display: none;
+}
+
+#생선박스 {
+	display: none;
+}
+
+#그딴거없음박스 {
+	display: none;
+}
+
+.하이드 {
+	display: none;
+}
+
+#고기박스 {
+		display: none;
+}
+
+#meat {
+	display: block;
+}
+
+#pasta {
+	display: block;
+}
+
+#foodchoice {
+	display: none;
+}
+
+
+
+.my-hr3 {
+	    border: 0;
+    height: 3px;
+    background: rgba(0,0,0,0.04);
+	box-shadow: 10px;
+}
+
+
+
+
+
+.nav-menu1 {
+	display: flex;
+  margin-bottom: 30px;	
+	padding: 20px;
+	align-items: center;
+	background-color: #f8f8f8;
+}
